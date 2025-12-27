@@ -1,17 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/9c1e43158017487.Y3JvcCw2MzkzLDUwMDEsMTQyLDA.jpg" group-title="Raisan live",BPL-2025
-https://bd-mc-fdlive.fancode.com/mumbai/138917_english_hls_2ab30a2fb843502_1ta-di_h264/index.m3u8
+https://bd-mc-fdlive.fancode.com/mumbai/138919_english_hls_cae7f611bc34506_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7mWjHnm/Picsart-25-11-16-16-22-36-057.jpg" group-title="Raisan live",Live Event-01
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
-#EXTINF:-1 tvg-name="OTTE Live" tvg-logo="https://i.postimg.cc/NMSD9HFP/Picsart-25-11-16-16-23-02-578.jpg" group-title="DRM",Willow AQ
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6c657cf59c36f050d3c065a05415118:00abdaaafb9cae9efbb7f5ec53841c3f
-https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/bhuhr4rfjk/out/v1/897cf67b309b4fe1ae5441e401bece4c/cenc.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf3p9HPXP_bNJMfPGfED_Ba3ovjtCy_9MazCyycegeJZKMnD6kYhM0t3LUMw7vnzmK38hB9MqTPqz6y6A-zCfEBzBvU7sY9HTHH8BVb_1NBNBraJDtvDBCk-V7XBlSKcfhypl2r53JQmQ/s16000-rw/T-Sports-Bangladesh-Logo.png" group-title="Raisan live",TSports HD
+#EXTINF:-1 tvg-name="Willow Sports" tvg-logo="https://i.postimg.cc/NMSD9HFP/Picsart-25-11-16-16-23-02-578.jpg group-title="Cricket",Willow Sports
+http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="Raisan live",TSports HD
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="Raisan live",T-Sports Hd
-https://padmaonline.duckdns.org:8088/T-Sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="	https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/SamiTV.jpg" group-title="Raisan live",T-Sports Hd
+https://padmaonline.duckdns.org:8088/SamiTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/pcv-1.jpg" group-title="Raisan live",Padma Cable Vision
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkfEz9BOg3Mv1MaicVKJI-sapBEcHyHbyPqw&s" group-title="Raisan live",0. Doraemon
