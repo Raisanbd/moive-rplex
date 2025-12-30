@@ -21,6 +21,8 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 https://bd-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c58850_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSswNsxz9hF4DGT5jeTdvH3W1SpyG83aAJxtrya81yHJIb5N7VYCGjyQnW-NMG6rEZE9kU&usqp=CAU" group-title="Raisan live",T-Sports
 http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="122" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMxPeQ-uiPviwPTIpLRo_pqPHlPkn6jKxeIA&s" group-title="Raisan live",wowtv
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/hdntl=exp=1767182358~acl=%2f*~data=hdntl~hmac=f4c06b1a75c721c74c8ca2ec008cef3db27bc7a770ccd9fb508046da6b12fdac/chunklist_b864000.m3u8
 #EXTINF:-1 tvg-id="122" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png" group-title="Raisan live",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-id="134" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Raisan live",Deepto TV HD
