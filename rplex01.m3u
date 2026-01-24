@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/9c1e43158017487.Y3JvcCw2MzkzLDUwMDEsMTQyLDA.jpg" group-title="Raisan live",BPL-2026
 https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7mWjHnm/Picsart-25-11-16-16-22-36-057.jpg" group-title="Raisan live",Live Event-01 (iframe)
-https://fancode.bdixtv24.com/play.php?id=138943
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7mWjHnm/Picsart-25-11-16-16-22-36-057.jpg" group-title="Raisan live",Live Event-01 
+https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://i.postimg.cc/NMSD9HFP/Picsart-25-11-16-16-23-02-578.jpg group-title="Cricket",Live Event-02
-https://tvsen6.aynaott.com/asports/index.m3u8
+https://padmaonline.duckdns.org:8088/T-SportHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="Raisan live",TSports HD
-https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
+https://padmaonline.duckdns.org:8088/T-SportHD/index.m3u8
 #EXTINF:-1 tvg-logo="	https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/SamiTV.jpg" group-title="Raisan live",SamiTV
 https://padmaonline.duckdns.org:8088/SamiTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/pcv-1.jpg" group-title="Raisan live",Padma Cable Vision
