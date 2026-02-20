@@ -28,6 +28,8 @@ https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-id="122" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png" group-title="Raisan live",Jamuna Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-id="122" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png" group-title="Raisan live",Somoi Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-id="134" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Raisan live",Deepto TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-id="115" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906659479.png" group-title="Raisan live",Sony AATH
