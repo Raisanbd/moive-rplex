@@ -12,6 +12,10 @@ http://103.144.89.251/player.php?stream=01
 https://cors-proxy.cooks.fyi/http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="	https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/SamiTV.jpg" group-title="Raisan live",SamiTV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxa60UwWyFXqdR98kiE6GDlxzf4_61pf4KafwsNc4JGAVd8dJjZUiPa1A&s=10" group-title="Raisan live",StarGold
+https://cors-proxy.cooks.fyi/http://198.195.239.50:8095/StarGold/index.m3u8
+#EXTINF:-1 tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Raisan live",Star Jalsha
+https://cors-proxy.cooks.fyi/http://27.124.71.27/Star_Jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/pcv-1.jpg" group-title="Raisan live",Padma Cable Vision
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkfEz9BOg3Mv1MaicVKJI-sapBEcHyHbyPqw&s" group-title="Raisan live",0. Doraemon 24/7
