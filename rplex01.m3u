@@ -25,7 +25,8 @@ https://dai.google.com/ssai/event/KqsXcdR0Ta2-bgmQzgV55A/master.m3u8
 #EXTINF:-1 tvg-name="Bangla Waz" tvg-logo="https://image2url.com/r2/default/images/1771151280861-b16e9421-f744-4922-83f4-791f990fd900.jpg",Bangla Waz
 https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Raisan live",Fifa Would  Cap-01 
-https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+#https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779283784
 #EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png"group-title="Cricket",Fifa Would  Cap-02
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Cricket",Fifa Would  Cap-03
