@@ -11,16 +11,6 @@
 #EXTM3U
 Event
 
-#EXTINF:-1 tvg-id="tapmad-13486" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803078451020x576.jpg" group-title="Cricket", Pakistan vs Australia Live | Australia Tour of Pakistan 2026
-https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779283784
-#EXTINF:-1 tvg-id="tapmad-13827" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803158781020x576.jpg" group-title="Tennis", Wheelchair - 1st Round - Court 14 Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13589" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803210591020x576.jpg" group-title="Tennis", Ladies' or Gentlemen's Singles1 "Great" match - Quarter Finals - Philippe Chatrier Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13933" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803864511020x576.jpg" group-title="Football", Wales vs Ghana | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780429506~acl=/hls/*~hmac=957be562b2b5d982afda656a16f2d1fe3cb68acb68f955cb2d751ed6cded8088
-#EXTINF:-1 tvg-id="sonyliv-1090533245" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018974/1780316291693502_ENGvsIND_Womens_3rd_T20I_landscape_thumb.jpg" group-title="Cricket", India Women's Tour of England 2026 | 3rd T20I - 2 Jun 2026
-https://dai.google.com/ssai/event/KqsXcdR0Ta2-bgmQzgV55A/master.m3u8
 
 #EXTINF:-1 tvg-name="Bangla Waz" tvg-logo="https://image2url.com/r2/default/images/1771151280861-b16e9421-f744-4922-83f4-791f990fd900.jpg",Bangla Waz
 https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
@@ -28,7 +18,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
 #https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779283784
 #EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png"group-title="Cricket",Fifa Would  Cap-02
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+https://i.imgur.com/mJUjRhP.mp4
 #EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Cricket",Fifa Would  Cap-03
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="Raisan live",TSports HD
