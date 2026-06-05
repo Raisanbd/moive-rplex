@@ -15,8 +15,8 @@ Event
 #EXTINF:-1 tvg-name="Bangla Waz" tvg-logo="https://image2url.com/r2/default/images/1771151280861-b16e9421-f744-4922-83f4-791f990fd900.jpg",Bangla Waz
 https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/svyZYYFt/Picsart-26-06-05-01-38-11-055.png" group-title="Raisan live",Rlive Sports
-#https://i.imgur.com/mJUjRhP.mp4
-https://stream.mux.com/004v4e8DffPajSnH01FIrWyxYXD7myxLDz7DW3kwvR5ps.m3u8?redundant_streams=true
+https://i.imgur.com/mJUjRhP.mp4
+#https://stream.mux.com/004v4e8DffPajSnH01FIrWyxYXD7myxLDz7DW3kwvR5ps.m3u8?redundant_streams=true
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Raisan live",Fifa Would  Cap-01 
 #https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779283784
