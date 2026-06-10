@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZkMDE4NTEtODNhMS00YzY1LWE4MDItNzVjNDE2MmU1NjBlXkEyXkFqcGc@._V1_.jpg" group-title="hindi",Peddi (2026)
+https://pub-f85680743e6f48c3b210af18613f778c.r2.dev/735bf6d2601ac8b03e8cc6446464c8f0?t=1781092567&token=f524cf4d13d4fff7e28ef0fd62245b58dce0932c5c90729f61d892c61477e346
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTY4NWY2MWQtMGFkMi00MDViLWEwZDgtNGMyZjA3MmYzMWU5XkEyXkFqcGc@._V1_.jpg" group-title="english",Karuppu (2026)
 https://pub-f85680743e6f48c3b210af18613f778c.r2.dev/25fa0a4bcb8aea46e19250927d4c4b2c?t=1780455799&token=51d50c4724cae385b0afe6d2f4022374cd49683480e4135f3d2c156ccea49a58
 #EXTINF:-1 tvg-logo="https://media.assettype.com/hollywoodreporterindia%2F2026-04-20%2Fehjs8im2%2FIMG6453.JPEG" group-title="english",Pati Patni Aur Woh Do
