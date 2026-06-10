@@ -2,7 +2,7 @@
 # Developed By: RAISAN AHMED
 # GitHub @raisan
 # IPTV Telegram Channels: https://t.me/rrplex
-# Last Updated: 2026-05-24 09:55 PM (BD Time)
+# Last Updated: 2026-06-10 03:00 PM (BD Time)
 # Disclaimer:
 # This tool does NOT host any content.
 # It aggregates publicly available data for informational purposes only.
@@ -12,23 +12,28 @@
 Event
 
 
-#EXTINF:-1 tvg-name="Bangla Waz" tvg-logo="https://image2url.com/r2/default/images/1771151280861-b16e9421-f744-4922-83f4-791f990fd900.jpg",Bangla Waz
-https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/svyZYYFt/Picsart-26-06-05-01-38-11-055.png" group-title="Raisan live",Rlive Sports
-https://i.imgur.com/mJUjRhP.mp4
+#https://i.imgur.com/mJUjRhP.mp4
 #https://stream.mux.com/004v4e8DffPajSnH01FIrWyxYXD7myxLDz7DW3kwvR5ps.m3u8?redundant_streams=true
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Raisan live",Fifa Would  Cap-01 
+https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://www.bssnews.net/assets/news_photos/2024/09/22/image-211205-1727014201.jpg"group-title="Cricket",Fifa Would  Cap-01
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Raisan live",Fifa Would  Cap-02
 #https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779283784
-#EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png"group-title="Cricket",Fifa Would  Cap-02
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Cricket",Fifa Would  Cap-03
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8
+#https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="Raisan live",TSports HD
 https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779508652&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=47201c446d2e7b01b8b0736ba1240fbb
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="Raisan live",TSports(ifarme)
 #http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 https://rlive.page.gd/m3u8-player/?url=https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779508652&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=47201c446d2e7b01b8b0736ba1240fbb
+#EXTINF:-1 tvg-name="Bangla Waz" tvg-logo="https://image2url.com/r2/default/images/1771151280861-b16e9421-f744-4922-83f4-791f990fd900.jpg",Bangla Waz
+https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Bangla Waz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eo_circle_red_letter-s.svg/960px-Eo_circle_red_letter-s.svg.png",Bangla Waz
+https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids", SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpFJvLFD/images.jpg" group-title="Raisan live",GseriesDrama
