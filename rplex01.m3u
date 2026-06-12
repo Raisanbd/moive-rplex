@@ -19,7 +19,7 @@ Event
 https://fifaplay-1.netlify.app/
 #EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png"group-title="Cricket",Fifa Would  Cap-01
 https://tvsen5.aynaott.com/PtvSports/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/btv-fifa.png" group-title="Raisan live",Fifa Would  Cap-02
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/btv-fifa.png" group-title="Raisan live",Fifa Would  Cap-02(iframe)
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 https://fifabd1.netlify.app/
 #EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://images.seeklogo.com/logo-png/64/1/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Cricket",Fifa Would  Cap-03
@@ -46,8 +46,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla SD(iframe)
 #https://ottbanglaplatform.com/tv/toffee/live.php?id=zee_bangla&e=.m3u8
-#https://bdixtv24.com/tv2.php?id=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
-https://pippotv.42web.io/zeebangla/
+https://bdixtv24.com/tv2.php?id=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
 #EXTINF:-1 tvg-id="discovery_sd" tvg-name="Discovery" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" tvg-chno="discovery_sd" group-title="", Discovery
 https://ottbanglaplatform.com/tv/toffee/live.php?id=discovery_sd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD
