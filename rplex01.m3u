@@ -25,10 +25,8 @@ https://fifabd1.netlify.app/
 #EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://github.com/Raisanbd/aynaott02/blob/main/Picsart_26-06-13_13-40-18-769.png?raw=true" group-title="Cricket",Fifa Would  Cap-03(iframe)
 #https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8
 https://bdixtv24.com/live/Football2.php
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="Raisan live",TSports HD
-https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779508652&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=47201c446d2e7b01b8b0736ba1240fbb
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="Raisan live",TSports(ifarme)
-#http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://i.ibb.co.com/zTm0MYhL/Picsart-26-06-13-16-36-15-678.png" group-title="Cricket",Fifa Would  Cap-03
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8
 https://rlive.page.gd/m3u8-player/?url=https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779508652&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=47201c446d2e7b01b8b0736ba1240fbb
 #EXTINF:-1 tvg-name="Bangla Waz" tvg-logo="https://image2url.com/r2/default/images/1771151280861-b16e9421-f744-4922-83f4-791f990fd900.jpg",Bangla Waz
 https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
