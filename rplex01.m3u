@@ -27,8 +27,11 @@ https://fifabd1.netlify.app/
 https://bdixtv24.com/live/Football2.php
 #EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://github.com/Raisanbd/aynaott02/blob/main/Picsart_26-06-13_13-40-18-769.png?raw=true" group-title="Cricket",Fifa Would  Cap-03
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8
-#EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://github.com/Raisanbd/aynaott02/blob/main/Picsart_26-06-13_13-40-04-951.png?raw=true" group-title="Cricket",Fifa Would  Cap-03
+#EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://i.postimg.cc/Y903JSq8/20260612-095648.jpg" group-title="FIFA",WIN Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1 tvg-id="Bein_Sports_1" tvg-name="Bein Sports 1" tvg-logo="https://i.postimg.cc/Y903JSq8/20260612-095648.jpg" group-title="FIFA",Bein Sports 1
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
 
 #EXTINF:-1 tvg-name="Bangla Waz" tvg-logo="https://image2url.com/r2/default/images/1771151280861-b16e9421-f744-4922-83f4-791f990fd900.jpg",Bangla Waz
 https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
