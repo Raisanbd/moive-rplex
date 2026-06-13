@@ -12,7 +12,8 @@
 Event
 
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoy6kBEl_Ok3KUqdvnaY59Ojieg2PoP6MU14WIdda33LqNS_ksnhKgrq4&s=10" group-title="Raisan live",Bra VS Mor
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Raisanbd/aynaott02/blob/main/Picsart_26-06-13_13-40-04-951.png?raw=true" group-title="Raisan live",Rlive Sports(iframe)
 #https://i.imgur.com/mJUjRhP.mp4
 #https://cinearena.fun/chns/zee-bangla
@@ -27,12 +28,14 @@ https://fifabd1.netlify.app/
 #https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8
 https://bdixtv24.com/live/Football2.php
 #EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://github.com/Raisanbd/aynaott02/blob/main/Picsart_26-06-13_13-40-18-769.png?raw=true" group-title="Cricket",Fifa Would  Cap-03
-https://live6.asimxtech.online/ptv/index.m3u8
 #https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8
-#EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://i.postimg.cc/Y903JSq8/20260612-095648.jpg" group-title="FIFA",WIN Sports
 https://flussonic.defineatoz.com/PTV/index.m3u8?token=ad4b055d82eb95de5ab8bce1e0838a0246fdabf9-1c1e13294ff9af1414bef4c6fb6d7e6e-1781362740-1781351940&remote=103.118.76.122
+#EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://i.postimg.cc/Y903JSq8/20260612-095648.jpg" group-title="FIFA",WIN Sports
+https://flussonic.defineatoz.com/BeinSports1/index.m3u8?token=12ec183dc4029dc3815ee0d40507b67c983b3ec3-bff9a3fafd4412c937d09c1f3e175cd4-1781362712-1781351912&remote=103.118.76.122
 #EXTINF:-1 tvg-id="Bein_Sports_1" tvg-name="Bein Sports 1" tvg-logo="https://i.postimg.cc/Y903JSq8/20260612-095648.jpg" group-title="FIFA",Bein Sports 1
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-id="Bein_Sports_1" tvg-name="Bein Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKLYhBbq2HHatZKnaPZIEaNiI9Oo7mLV_089kfN4PFWg&s" group-title="FIFA",Tsports
+https://flussonic.defineatoz.com/TSports2/index.m3u8?token=c186bfba3b4ed43c59785617e1b9e7b198165251-b0085a24402b820738e46b10fa846ebe-1781362406-1781351606&remote=103.118.76.122
 
 
 #EXTINF:-1 tvg-name="Bangla Waz" tvg-logo="https://image2url.com/r2/default/images/1771151280861-b16e9421-f744-4922-83f4-791f990fd900.jpg",Bangla Waz
