@@ -12,9 +12,9 @@
 Event
 
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="Raisan live",Fifa 01
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="Raisan live",Fifa 01(iframe)
 #https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-https://backup.alarafatofficial.workers.dev/?url=https%3A%2F%2Fd1211whpimeups.cloudfront.net%2Fsmil%3Artbgo%2Fchunklist_b4096000_slENG.m3u8&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36&ekey=SPORTIX_SECURE_KEY_2026
+https://fifalive.click/play
 #EXTINF:-1 tvg-logo="https://github.com/Raisanbd/aynaott02/blob/main/Picsart_26-06-13_13-40-04-951.png?raw=true" group-title="Raisan live",Rlive Sports
 #https://rlivepro.netlify.app/
 https://rb.gy/02cewm
