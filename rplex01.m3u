@@ -27,18 +27,15 @@ https://live05.msdht.app/live/24561735.m3u8
 #https://fifabd1.netlify.app/
 #https://tv.beyondtaxconsultants.com/api/robi/lps/http://116.204.149.16/somoytv/tracks-v1a1/mono.m3u8
 https://shorturl.at/26Bw6
-#EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://i.ibb.co.com/zTm0MYhL/Picsart-26-06-13-16-36-15-678.png" group-title="Cricket",zee bangla
-#https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8
-#https://bdixtv24.com/live/Football2.php
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+#EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1280px-Bangladesh_Television_Logo.svg.png" group-title="Cricket",BTV HD
 #https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
-
+https://is.gd/rlive_m3u8
 #EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKLYhBbq2HHatZKnaPZIEaNiI9Oo7mLV_089kfN4PFWg&s" group-title="FIFA",TSports
 https://flussonic.defineatoz.com/BeinSports1/index.m3u8?token=12ec183dc4029dc3815ee0d40507b67c983b3ec3-bff9a3fafd4412c937d09c1f3e175cd4-1781362712-1781351912&remote=103.118.76.122
 #EXTINF:-1 tvg-id="Bein_Sports_1" tvg-name="Bein Sports 1" tvg-logo="https://i.postimg.cc/Y903JSq8/20260612-095648.jpg" group-title="FIFA",Bein Sports 1
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="Bein_Sports_1" tvg-name="Bein Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKLYhBbq2HHatZKnaPZIEaNiI9Oo7mLV_089kfN4PFWg&s" group-title="FIFA",Tsports(iframe)
-https://tv.beyondtaxconsultants.com/api/proxy?url=http://198.195.239.50:8095/tsports/index.m3u8
+https://shorturl.at/CZjvv
 
 #EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="FIFA",PTV Sports
 https://shorturl.at/aXjnW
