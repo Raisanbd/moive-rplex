@@ -11,8 +11,8 @@
 #EXTM3U
 Event
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxslyeQQfJsD-fhgzwbh1EQBvuj8ohoCoNYMKImJ-RxDAgy6wjb-ZVQK5A&s=10" group-title="Raisan live",brazil vs haiti highlights
-https://rumble.com/hls-vod/79dm2q/playlist.m3u8?key=hlt8mRwzzSlAidPwLwwVDktpj9itEAbza1UDXWgjXiO0tABCPNNRlA&u=0&b=0
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvFjtNOuibP3ze8bsA7GcVTdkrerkrSNLIjQ&s" group-title="Raisan live",morocco vs haiti(iframe)
+https://rliveplay.netlify.app/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="Raisan live",Toffe Sports
 https://is.gd/toffeelibe
 #https://sm-monirul.top/tof/live/toffee4/index.m3u8?nocache=1782146598612
