@@ -35,19 +35,20 @@ https://rplextv.vercel.app/
 #https://rliveplay.netlify.app/
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Raisan live",Fifa
 #https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
-https://live05.msdht.app/live/24561735.m3u8
-#https://pub-f85680743e6f48c3b210af18613f778c.r2.dev/07347e7c7c3bc2e71d498cbb69342d52?t=1781972451&token=78755b1fdc601a2a37329d904a308463bbac9db258e23614860aeec3366d215d
+https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+
 #EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://github.com/Raisanbd/aynaott02/blob/main/Picsart_26-06-13_13-39-46-757.png?raw=true"group-title="Cricket",Somoi TV
 #https://shorturl.at/qEJH0
 https://shorturl.at/PSjLh
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Soco Live
-https://live05.msdht.app/live/24561735.m3u8
+https://live.inplyr.com/room/344370.m3u8"
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Mahsun Sports
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#https://live.inplyr.com/room/462413.m3u8
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn3.m3u8
 #EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKLYhBbq2HHatZKnaPZIEaNiI9Oo7mLV_089kfN4PFWg&s" group-title="FIFA",TSports hd
 https://flussonic.defineatoz.com/BeinSports1/index.m3u8?token=12ec183dc4029dc3815ee0d40507b67c983b3ec3-bff9a3fafd4412c937d09c1f3e175cd4-1781362712-1781351912&remote=103.118.76.122
 #EXTINF:-1 tvg-id="Bein_Sports_1" tvg-name="Bein Sports 1" tvg-logo="https://i.postimg.cc/Y903JSq8/20260612-095648.jpg" group-title="FIFA",Bein Sports 1
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+https://www.rtmpcdn.com/live/cctv5.m3u8
 #EXTINF:-1 tvg-id="Bein_Sports_1" tvg-name="Bein Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKLYhBbq2HHatZKnaPZIEaNiI9Oo7mLV_089kfN4PFWg&s" group-title="FIFA",Tsports
 https://shorturl.at/S0gmz
 
