@@ -12,36 +12,16 @@
 Event
 #====== Toffee World Cup ============
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 1
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8
-#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 2
-http://sm-monirul.top/tof/live/toffee2/index.m3u8
-#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 3
-http://sm-monirul.top/tof/live/toffee3/index.m3u8
-#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 4
-https://sm-monirul.top/tof/live/toffee4/index.m3u8
-#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 5
+#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8
+#https://sm-monirul.top/tof/live/toffee4/index.m3u8
 https://sm-monirul.top/tof/live/toffee5/index.m3u8
-#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 6
+
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 2
 https://sm-monirul.top/tof/live/toffee6/index.m3u8
 
-#====== Bioscope World Cup ============
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png" ,Bioscope 
-http://sm-monirul.top/fifa/bioscope/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png" ,Bioscope 
-http://sm-monirul.top/fifa/bioscope1/index.m3u8
-EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png" ,Bioscope 
-#http://sm-monirul.top/fifa/bioscope1/index.m3u8
-https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMsc_j3e2KKQ18tD9XCM09UahrLonmSx15vdenZEnMrA&s=10" ,i screen
-http://sm-monirul.top/ott/iscreen/index.m3u8
-#EXTINF:-1 tvg-id="iscreenhd" tvg-name="I SCREEN HD" tvg-logo="https://platform.rockstreamer.com/platforms/iscreen.com.bd/assets/logo.png" group-title="Bangladesh",I SCREEN HD
-#EXTVLCOPT:http-referrer=https://iscreen.com.bd/
-https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
 #EXTINF:-1 tvg-id="bingeplus" tvg-name="Binge+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo_of_Binge.svg" group-title="Bangladesh",Binge+
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
 https://m3u-tvb.pages.dev/ics.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UlpB9bNOaVr8APS1n3-I2ZQSf3I-0dlaksDEKHa3t2ub4mhrzHQPLa9xgvOAYoFXNI0jzfFa1w=s900-c-k-c0x00ffffff-no-rj" group-title="Raisan live",FIFA 01 
 https://fifa-stream-proxy.mdsabbirhowlader420.workers.dev/https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
@@ -60,7 +40,7 @@ https://live05.msdht.app/live/24561735.m3u8
 #https://pub-f85680743e6f48c3b210af18613f778c.r2.dev/07347e7c7c3bc2e71d498cbb69342d52?t=1781972451&token=78755b1fdc601a2a37329d904a308463bbac9db258e23614860aeec3366d215d
 #EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://github.com/Raisanbd/aynaott02/blob/main/Picsart_26-06-13_13-39-46-757.png?raw=true"group-title="Cricket",Somoi TV
 #https://shorturl.at/qEJH0
-https://tv.beyondtaxconsultants.com/api/proxy?url=http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
+https://shorturl.at/PSjLh
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Soco Live
 https://live05.msdht.app/live/24561735.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Mahsun Sports
