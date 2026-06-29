@@ -11,19 +11,13 @@
 #EXTM3U
 Event
 #====== Event============
-#EXTINF:-1 tvg-id="Event " tvg-name="Rlive OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-zxUQH407uH7yPPBBClsfTGFk1Fk5juEFrLrx2YjRPJc7ZQBImidYjGuz&s=10" group-title="Sports Channels",bangladesh vs zimbabwe
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
 
 
 #====== Toffee World Cup ============
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 1
-#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8
-#https://sm-monirul.top/tof/live/toffee4/index.m3u8
-https://sm-monirul.top/tof/live/toffee5/index.m3u8
-
+https://shorturl.at/ND7uK
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 2
-https://sm-monirul.top/tof/live/toffee6/index.m3u8
-
+https://binge.oolcaykarael.workers.dev/
 #EXTINF:-1 tvg-id="bingeplus" tvg-name="Binge+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo_of_Binge.svg" group-title="Bangladesh",Binge+
 #https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_1.m3u8
 https://cricxtv.fun/bioscope.php?file=index_1.m3u8
