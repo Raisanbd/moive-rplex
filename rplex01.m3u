@@ -14,7 +14,8 @@ Event
 
 _SECURE_KEY_2026
 #====== Toffee World Cup ============
-
+#EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKLYhBbq2HHatZKnaPZIEaNiI9Oo7mLV_089kfN4PFWg&s" group-title="FIFA",TSports hd
+https://hd2.ctghub.com/T-Sports/index.m3u8
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 1
 https://live05.paznhl.app/live/08552895.m3u8
 
@@ -23,7 +24,7 @@ https://fifa-stream-proxy.mdsabbirhowlader420.workers.dev/https://1nyaler.stream
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png/revision/latest/scale-to-width-down/985?cb=20231207072745" group-title="Raisan live",Toffe Sports
 #https://is.gd/toffeelibe
-https://cdn011.viaplus.site/fox-usa.m3u8
+https://cricxtv.fun/isceen.php?file=https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/tc_sg_1_1080p.m3u8&is_playlist=1&nocache=1782870978519
 #EXTINF:-1 tvg-logo="https://github.com/Raisanbd/aynaott02/blob/main/Picsart_26-06-13_13-40-04-951.png?raw=true" group-title="Raisan live",Rlive Sports
 #https://rlivepro.netlify.app/
 #https://fifa-stream-proxy.mdsabbirhowlader420.workers.dev/https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
@@ -34,17 +35,16 @@ https://fifa-stream-proxy.mdsabbirhowlader420.workers.dev/https://1nyaler.stream
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
 
 #EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://github.com/Raisanbd/aynaott02/blob/main/Picsart_26-06-13_13-39-46-757.png?raw=true"group-title="Cricket",Somoi TV
-#https://shorturl.at/qEJH0
-http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+https://shorturl.at/qEJH0
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Soco Live
 https://live.inplyr.com/room/123226.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Mahsun Sports
-#https://live.inplyr.com/room/462413.m3u8
-https://andro.evrenesoglu57.click/checklist/androstreamliveexn3.m3u8
-#EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKLYhBbq2HHatZKnaPZIEaNiI9Oo7mLV_089kfN4PFWg&s" group-title="FIFA",TSports hd
-https://shorturl.at/Vn8sS
+
+
+
 #EXTINF:-1 tvg-id="Bein_Sports_1" tvg-name="Bein Sports 1" tvg-logo="https://i.postimg.cc/Y903JSq8/20260612-095648.jpg" group-title="FIFA",Bein Sports 1
 https://www.rtmpcdn.com/live/cctv5.m3u8
+
 #EXTINF:-1 tvg-id="Bein_Sports_1" tvg-name="Bein Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKLYhBbq2HHatZKnaPZIEaNiI9Oo7mLV_089kfN4PFWg&s" group-title="FIFA",Tsports
 https://shorturl.at/S0gmz
 
