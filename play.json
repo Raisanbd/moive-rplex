@@ -10,19 +10,19 @@
     "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
     "logo": "https://via.placeholder.com/100x100?text=Somoy",
     "category": "Live"
-  }
-]
-
-  
-    "name": "T-Sports Live",
+  },
+  {
+    "name": "D-Sports Live",
     "url": "https://1.simoplay.com/my-hls/h9asfma10d5.m3u8",
-    "logo": "https://via.placeholder.com/100x100?text=TS",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVkxDrqVdcaSZIXgfIVOB31HaRifwtdkEGh-2BKmxqmfKLKFyu_rcgtwLx&s=10",
     "category": "Sports"
   },
   {
-    "name": "Somoy News",
-    "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
-    "logo": "https://via.placeholder.com/100x100?text=Somoy",
-    "category": "Live"
-  }
-]
+    "name": "D-Sports Live",
+    "url": "https://1.simoplay.com/my-hls/h9asfma10d5.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVkxDrqVdcaSZIXgfIVOB31HaRifwtdkEGh-2BKmxqmfKLKFyu_rcgtwLx&s=10",
+    "category": "Sports"
+  },
+
+
+  
