@@ -1,14 +1,14 @@
 [
   {
-    "name": "BTV National",
-    "logo": "https://via.placeholder.com/60x60?text=BTV",
-    "url": "https://1.simoplay.com/my-hls/h9asfma10d5.m3u8",
-    "category": "Bangla"
+    "name": "T-Sports Live",
+    "url": "https://1.simoplay.com/my-hls/h9asfma10d5.m3u8"
   },
   {
-    "name": "Sports Live",
-    "logo": "https://via.placeholder.com/60x60?text=Sports",
-    "url": "https://1.simoplay.com/my-hls/h9asfma10d5.m3u8",
-    "category": "Sports"
+    "name": "Gazi TV HD",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "name": "Somoy TV",
+    "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
   }
 ]
