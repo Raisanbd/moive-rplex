@@ -15,7 +15,7 @@ Event
 _SECURE_KEY_2026
 #====== Toffee World Cup ============
 #EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKLYhBbq2HHatZKnaPZIEaNiI9Oo7mLV_089kfN4PFWg&s" group-title="FIFA",TSports hd
-https://1.simoplay.com/my-hls/h9asfma10d5.m3u8
+https://a3285273028-s80718.cdn.ngenix.net/hls/CH_FAST_SPORTSHD/video_1920x1080_avc1/playlist.m3u8?profile=web_auto
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 1
 #https://live05.paznhl.app/live/08552895.m3u8
 https://tv.beyondtaxconsultants.com/api/proxy?url=http://180.94.28.28:8097/Fifa-2026/index.m3u8
