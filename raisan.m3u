@@ -19,6 +19,8 @@ https://a3285273028-s80718.cdn.ngenix.net/hls/CH_FAST_SPORTSHD/video_1920x1080_a
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 1
 #https://live05.paznhl.app/live/08552895.m3u8
 http://180.94.28.28:8097/Fifa-2026/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQejv0nbxpY8hT3CnF44zh-TenbFuF9Ub9ewcaL0iW05Ag6u6u-u0FMkpc&s=10" group-title="Raisan live",VISION PABNA
+https://stream.sunplex.live/SPORTS-LIVE1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UlpB9bNOaVr8APS1n3-I2ZQSf3I-0dlaksDEKHa3t2ub4mhrzHQPLa9xgvOAYoFXNI0jzfFa1w=s900-c-k-c0x00ffffff-no-rj" group-title="Raisan live",FIFA 01 
 https://fifa-stream-proxy.mdsabbirhowlader420.workers.dev/https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
