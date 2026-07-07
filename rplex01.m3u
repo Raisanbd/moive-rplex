@@ -34,6 +34,8 @@ https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdn
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Raisan live",Fifa
 #https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+#EXTINF:-1 tvg-id="zee_bangla" tvg-name="Zee Bangla VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" tvg-chno="zee_bangla" group-title="", Zee Bangla
+https://bdixtv24.live/tv2.php?id=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
 
 #EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://github.com/Raisanbd/aynaott02/blob/main/Picsart_26-06-13_13-39-46-757.png?raw=true"group-title="Cricket",Somoi TV
 https://shorturl.at/qEJH0
