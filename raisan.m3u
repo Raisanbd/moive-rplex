@@ -51,11 +51,11 @@ https://live.inplyr.com/room/123226.m3u8
 #https://www.rtmpcdn.com/live/cctv5.m3u8
 https://andro.evrenesoglu57.click/checklist/androstreamliveexn4.m3u8
 #EXTINF:-1 tvg-id="Bein_Sports_1" tvg-name="Bein Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKLYhBbq2HHatZKnaPZIEaNiI9Oo7mLV_089kfN4PFWg&s" group-title="FIFA",Tsports
-https://shorturl.at/S0gmz
+https://tv.ezshomadhan.com/stream-proxy?loop=1&url=http%3A%2F%2Fs.rocketdns.info%3A8080%2Fmonstercable%2FDq6jjknxCr%2F38039
 
 #EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="FIFA",PTV Sports
-https://shorturl.at/aXjnW
-#https://flussonic.defineatoz.com/PTV/index.m3u8?token=ad4b055d82eb95de5ab8bce1e0838a0246fdabf9-1c1e13294ff9af1414bef4c6fb6d7e6e-1781362740-1781351940&remote=103.118.76.122
+#https://flussonic.defineatoz.com/TSports2/index.m3u8?token=c186bfba3b4ed43c59785617e1b9e7b198165251-b0085a24402b820738e46b10fa846ebe-1781362406-1781351606&remote=103.118.76.122
+https://flussonic.defineatoz.com/PTV/index.m3u8?token=ad4b055d82eb95de5ab8bce1e0838a0246fdabf9-1c1e13294ff9af1414bef4c6fb6d7e6e-1781362740-1781351940&remote=103.118.76.122
 
 #EXTINF:-1 tvg-name="Bangla Waz" tvg-logo="https://image2url.com/r2/default/images/1771151280861-b16e9421-f744-4922-83f4-791f990fd900.jpg",Bangla Waz
 https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
