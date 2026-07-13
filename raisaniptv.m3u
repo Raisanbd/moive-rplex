@@ -68,28 +68,7 @@ https://stream2.sunplex.live/Duronto-TV/index.m3u8#uvp25
 https://stream2.sunplex.live/AAKAASH-AATH/index.m3u8#uvp27
 #EXTINF:-1 tvg-id="206000" tvg-name="Flash Guys HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png" group-title="Sports",Shemaroo-Bollywood-HD
 https://stream.sunplex.live/Shemaroo-Bollywood-HD/index.m3u8#uvp39
-#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/zUGrjZ4BuUSiBsg_1BeE/posters/e7383dbd-5016-4deb-896d-a08b3b6ffa58.png",[BD] FIFA WC CHANNEL 1
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1783440771~Starts=1783433571~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=EuEKrURPFiM9gm93nxHoBv9EKXVT_UtvmjDT7QDPg7CvUmt3ibzMM8FQfkmDvXuoXd4elUnryrQcFkJQyciACg
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/oDRWpp4Bb1O6C9k7We2Q/posters/3874c96c-ebcb-4929-9ab6-ae519ecac6eb.png",[BD] FIFA WC CHANNEL 2
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/index.m3u8?edge-cache-token=Expires=1783440772~Starts=1783433572~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=gsrGpV-kRXYISVQHZZcrpfAP1m47f_BIMhYhzdZRK2ue_XMez4ypKtBwlp0dWyxGHMDipD_5pzd52CQsQDOtBQ
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",[BD] WC Match Recap
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/index.m3u8?edge-cache-token=Expires=1783440774~Starts=1783433574~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=FcnF_rBeI9GXsaq-eaFyNyppov5aX3RwB5Gu9yjIO2cEvSN_-iTnntUSJD8nArMaKFIIqblwCrttIGkbhG-BDg
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png",[BD] Sony Ten Sports 2 HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1783606376:KeyName=prod_linear:Signature=8UgvxIQ4DEm72AFV1TttMOJSLYLx7u-TZgMVzWQNn5HfINkN3hq0t_DSezdk4IIOngjdKJNkFKjmLlj7RXOnBg"}
-#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp",[BD] Sony Ten Sports 1 HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1783606378:KeyName=prod_linear:Signature=xAQMimqF-wjigtj-Y_zyNNnOrVfeTjdOqdICtgI_tUkMFjApw_QiyKnn0Dsz5gbIqbcdVG144Vh5kgArdfu3Aw"}
-#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png",[BD] Sony Ten Sports 5 HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1783606379:KeyName=prod_linear:Signature=V1J9iz6d6hQD4eZNYMUR-rAf74IDbSlj_VbXE1Wc026aZmI2y1mCMhIyKzjmHIasr0TnE0wDIM2R5caYZr1ZAA"}
-#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",[BD] Sony Ten Cricket
+300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",[BD] Sony Ten Cricket
 https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
 #EXTINF:-1 tvg-id="246000" tvg-name="Delicious" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086478755.png" group-title="Infotainment",Delicious
