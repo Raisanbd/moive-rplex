@@ -114,6 +114,8 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="KhushbooBangla.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Sananda_TV_Logo.jpg",SANANDA TV
 https://live.sanandatelevision.in/sananda/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="KhushbooBangla.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Va8zCRvqpFHBEdvwRUhtUl6StXkN_EkfU9VKi6-K-w&s=10",ZEE BANGLA
+https://eprime.nav.bd/stream-proxy?url=https%3A%2F%2Fstream.ottplus.live%2Flive%2Fzee_bangla_abr%2Flive%2Fzee_bangla_720%2Fchunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="sonyaathhd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png",SONY AATH HD
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="GoldminesMovies.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Goldmines_old_logo.jpg",HINDI | Goldmines Movies
