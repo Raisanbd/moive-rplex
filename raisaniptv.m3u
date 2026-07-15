@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" tvg-chno="fifa+" group-title="", TSportd 
 http://103.165.93.31:8095/tsports/video.m3u8
 #EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://i.imgur.com/CPm6GHA.png" tvg-chno="fifa+" group-title="",  Ptv Sport
-http://103.165.93.31:8095/tsports/video.m3u8
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrNFmT4Wu4gTH_i0-tsm903WdnGRY9P20BqrY2t_rzxw&s=10" tvg-chno="fifa+" group-title="", Somoy TV for FIFA World Cup
 https://stream.sunplex.live/SOMOY-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrNFmT4Wu4gTH_i0-tsm903WdnGRY9P20BqrY2t_rzxw&s=10" group-title="FIFA",TSports hd
