@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://i.postimg.cc/QjD6hcSc/FIFA-World-Cup-Logo-2022.jpg" tvg-chno="fifa+" group-title="", Somoy TV for FIFA World Cup
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/CazeTV2022.svg" tvg-chno="fifa+" group-title="", Somoy TV for FIFA World Cup(iframe)
+https://kaizokutv.me/fifa/player.php?id=unite-8
 #EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKLYhBbq2HHatZKnaPZIEaNiI9Oo7mLV_089kfN4PFWg&s" group-title="FIFA",TSports hd(iframe)
 https://kaizokutv.me/fifa/player.php?id=unite-8
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 1(iframe)
