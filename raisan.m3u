@@ -41,8 +41,8 @@ https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdn
 #https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
 
-#EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://github.com/Raisanbd/aynaott02/blob/main/Picsart_26-06-13_13-39-46-757.png?raw=true"group-title="Cricket",Somoi TV
-https://shorturl.at/qEJH0
+#EXTINF:-1 tvg-name="Live Events Sports" tvg-logo="https://github.com/Raisanbd/aynaott02/blob/main/Picsart_26-06-13_13-39-46-757.png?raw=true"group-title="Cricket",Somoi TV(iframe)
+https://kaizokutv.me/fifa/player.php?id=TUDN
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Soco Live
 https://live.inplyr.com/room/123226.m3u8
