@@ -16,7 +16,10 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_3.m3u8
 https://andro.evrenesoglu57.click/checklist/androstreamliveexn4.m3u8
 #EXTINF:-1 tvg-id="04" tvg-name="Live Event" tvg-logo="https://i.ibb.co/VWZykTG5/2026-FIFA-World-Cup-emblem-1.png" group-title="LIVE EVENT", Fifa WorldCup
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/07/17/19/22/movie-7328179_1280.png" group-title="24/7",Hindi Dub
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2022/07/17/19/22/movie-7328179_1280.png" group-title="24/7",Bangla Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="08" tvg-name="SOMOY TV" tvg-logo="https://i.ibb.co/TW3yQD9/Picsart-23-06-07-11-27-32-538.png" group-title="BANGLADESHI CHANNELS", SOMOY TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" tvg-chno="fifa+" group-title="", TSportd 
