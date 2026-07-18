@@ -28,7 +28,8 @@ http://103.165.93.31:8095/tsports/video.m3u8
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpFJvLFD/images.jpg" group-title="Raisan live",GseriesDrama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/ab/38/e7/ab38e77504c56a132c57c94a5fd471c7.jpg" group-title="24/7",Village Cooking
+https://fl1003.bozztv.com/ushba-t10/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h7Rov9K9yz6dRM5N81dYq44AUzESD-FpiykR8bVAwg&s=10" group-title="Raisan live",Zee Bangla HD 01
 http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h7Rov9K9yz6dRM5N81dYq44AUzESD-FpiykR8bVAwg&s=10" group-title="Raisan live",Zee Bangla HD 02
