@@ -27,11 +27,11 @@ https://live1.streambylivepulse.com/live/channel6/playlist.m3u8?wsSecret=b9af50e
 #EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/CazeTV2022.svg" tvg-chno="fifa+" group-title="", FIFA World Cup 4K(iframe)
 https://kaizokutv.me/fifa/player.php?id=Caze_TV_FHD
 #EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKLYhBbq2HHatZKnaPZIEaNiI9Oo7mLV_089kfN4PFWg&s" group-title="FIFA",FIFA World Cup 4K
-http://stream.mcquack.net/72/index.m3u8
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/hiaHkvBWy9pzfT61-1Oc9CKVwA-ApzsYuWWVMNXSPmdwrS2uUqOSeC26cc4R3mliQP9svweK6DvGeyFk3qNV5A/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live
 #https://proxy.futuredesh.com/api/proxy?url=http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",FIFA World Cup 4K02
 #https://live05.paznhl.app/live/08552895.m3u8
-https://dellamonic.s3.us-east-2.amazonaws.com/btsport.m3u8
+https://goal-livetv.pages.dev/GUBA_STREAM_belN%20MAX%201.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQejv0nbxpY8hT3CnF44zh-TenbFuF9Ub9ewcaL0iW05Ag6u6u-u0FMkpc&s=10" group-title="Raisan live",VISION PABNA
 https://stream.sunplex.live/SOMOY-TV/tracks-v1a1/mono.m3u8
 
