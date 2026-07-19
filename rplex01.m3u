@@ -8,12 +8,12 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_5.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_5.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM2G13qUseSAPCXsbVwqJXsZMMe2JcTTFTxv9_SGUp-3k5de5cbEfthmWa&s=10", spain vs argentina Fast
 https://live1.streambylivepulse.com/live/channel6/playlist.m3u8?wsSecret=b9af50e7e1f039727390f2bedab8f1e0
-#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 1(iframe)
-#https://live05.paznhl.app/live/08552895.m3u8
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 1
+https://goal-livetv.pages.dev/GUBA_STREAM_belN%20MAX%201.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UlpB9bNOaVr8APS1n3-I2ZQSf3I-0dlaksDEKHa3t2ub4mhrzHQPLa9xgvOAYoFXNI0jzfFa1w=s900-c-k-c0x00ffffff-no-rj" group-title="Raisan live",FIFA Pabna
 https://stream.sunplex.live/SPORTS-LIVE1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKLYhBbq2HHatZKnaPZIEaNiI9Oo7mLV_089kfN4PFWg&s" group-title="FIFA",FIFA World Cup 4K
-http://stream.mcquack.net/72/index.m3u8
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/hiaHkvBWy9pzfT61-1Oc9CKVwA-ApzsYuWWVMNXSPmdwrS2uUqOSeC26cc4R3mliQP9svweK6DvGeyFk3qNV5A/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live
 #https://proxy.futuredesh.com/api/proxy?url=http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",FIFA World Cup 4K02
 #https://live05.paznhl.app/live/08552895.m3u8
