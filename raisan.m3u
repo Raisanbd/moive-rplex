@@ -24,7 +24,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_5.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_5.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM2G13qUseSAPCXsbVwqJXsZMMe2JcTTFTxv9_SGUp-3k5de5cbEfthmWa&s=10", spain vs argentina
 https://live1.streambylivepulse.com/live/channel6/playlist.m3u8?wsSecret=b9af50e7e1f039727390f2bedab8f1e0
-#EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/CazeTV2022.svg" tvg-chno="fifa+" group-title="", Somoy TV for FIFA World Cup(iframe)
+#EXTINF:-1 tvg-id="fifa+" tvg-name="Fifa+" tvg-country="IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/CazeTV2022.svg" tvg-chno="fifa+" group-title="", FIFA World Cup 4K(iframe)
 https://kaizokutv.me/fifa/player.php?id=Caze_TV_FHD
 #EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKLYhBbq2HHatZKnaPZIEaNiI9Oo7mLV_089kfN4PFWg&s" group-title="FIFA",TSports hd(iframe)
 https://kaizokutv.me/fifa/player.php?id=unite-8
