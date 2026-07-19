@@ -12,7 +12,12 @@ https://live1.streambylivepulse.com/live/channel6/playlist.m3u8?wsSecret=b9af50e
 #https://live05.paznhl.app/live/08552895.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UlpB9bNOaVr8APS1n3-I2ZQSf3I-0dlaksDEKHa3t2ub4mhrzHQPLa9xgvOAYoFXNI0jzfFa1w=s900-c-k-c0x00ffffff-no-rj" group-title="Raisan live",FIFA Pabna
 https://stream.sunplex.live/SPORTS-LIVE1/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKLYhBbq2HHatZKnaPZIEaNiI9Oo7mLV_089kfN4PFWg&s" group-title="FIFA",FIFA World Cup 4K
+http://stream.mcquack.net/72/index.m3u8
+#https://proxy.futuredesh.com/api/proxy?url=http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",FIFA World Cup 4K02
+#https://live05.paznhl.app/live/08552895.m3u8
+https://dellamonic.s3.us-east-2.amazonaws.com/btsport.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UlpB9bNOaVr8APS1n3-I2ZQSf3I-0dlaksDEKHa3t2ub4mhrzHQPLa9xgvOAYoFXNI0jzfFa1w=s900-c-k-c0x00ffffff-no-rj" group-title="Raisan live",FIFA 01 
 https://fifa-stream-proxy.mdsabbirhowlader420.workers.dev/https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
