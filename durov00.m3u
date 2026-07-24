@@ -2,13 +2,61 @@
 https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports-2.png" group-title="SM_IPTV",T Sports 2
 http://103.165.93.31:8095/tsports/video.m3u8
-#EXTINF:-1 tvg-id="t_sports_hd_2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLtXSmDAeGneCTEZAcT9gbAVtcHGQ0HeaD0QHYr2U1Apg0pN7YDXpuLnU-&s=10"Spain vs Agentina
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1784143104-0-0-61887cba46b1efb63b5b09d227c56d0a
-#EXTINF:-1 tvg-id="01" tvg-name="LIVE EVENT" tvg-logo="https://i.ibb.co/VWZykTG5/2026-FIFA-World-Cup-emblem-1.png" group-title="LIVE EVENT", Worldcup 
-https://live1.streambylivepulse.com/live/channel6/playlist.m3u8?wsSecret=b9af50e7e1f039727390f2bedab8f1e0
-#EXTINF:-1 tvg-id="01" tvg-name="LIVE EVENT" tvg-logo="https://i.ibb.co/VWZykTG5/2026-FIFA-World-Cup-emblem-1.png" group-title="LIVE EVENT", WorldCup
-https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 group-title="💠BDIX💠" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports 02
+http://103.191.99.248:5550/102/index.m3u8
 
+#EXTINF:-1 tvg-chno="409" tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png", Cricbuzz
+https://tv.cloudcdn.me:80/live.ts?channelId=33317&uid=3510&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/media/GJNFbwFXIAAk_C_.jpg" group-title="💠BDIX💠",Sport 1
+http://103.191.99.248:5550/110/index.m3u8
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/media/GJNFbwFXIAAk_C_.jpg" group-title="💠BDIX💠",Sport 2
+http://103.191.99.248:5550/115/index.m3u8
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="💠BDIX💠",SONY LIV 1
+http://103.191.99.248:5550/119/index.m3u8
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" group-title="💠BDIX💠",SONY LIV 2
+http://103.191.99.248:5550/120/index.m3u8
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" group-title="💠BDIX💠",SONY LIV 3
+http://103.191.99.248:5550/121/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="💠BDIX💠",Ekattor TV
+http://103.191.99.248:5550/201/index.m3u8
+EXTINF:0 tvg-id="zns9eha2" tvg-name="Ananda TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/atnbanglauk11.jpg?x67896" tvg-chno="28" group-title="💠BDIX💠",ATN Bangla
+http://103.191.99.248:5550/202/index.m3u8
+#EXTINF:-1 tvg-id="93" tvg-name="ATN News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="💠BDIX💠",ATN News                 
+http://103.191.99.248:5550/203/index.m3u8
+#EXTINF:-1 tvg-id="185" tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="💠BDIX💠",DBC News
+http://103.191.99.248:5550/204/index.m3u8
+#EXTINF:-1 tvg-id="229" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="💠BDIX💠",Maasranga TV
+http://103.191.99.248:5550/206/index.m3u8
+#EXTINF:-1 tvg-id="132000" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="💠BDIX💠",Channel I HD
+http://103.191.99.248:5550/207/index.m3u8
+#EXTINF:-1 tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="💠BDIX💠",Jamuna TV
+http://103.191.99.248:5550/209/index.m3u8
+#EXTINF:-1 group-title="💠BDIX💠" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png",Zee Bangla
+http://103.191.99.248:5550/301/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343" group-title="💠BDIX💠",Star Jalsha HD
+http://103.191.99.248:5550/302/index.m3u8
+#EXTINF:-1 tvg-id="77" group-title="💠BDIX💠" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies
+http://103.191.99.248:5550/303/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="💠BDIX💠",Colors Bangla
+http://103.191.99.248:5550/304/index.m3u8
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png" group-title="💠BDIX💠",Zee Bangla Sonar
+http://103.191.99.248:5550/305/index.m3u8
+#EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="💠BDIX",Sony Aath
+http://103.191.99.248:5550/306/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="💠BDIX💠",Star Movies HD
+http://103.191.99.248:5550/501/index.m3u8
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="💠BDIX💠",Sony PIX
+http://103.191.99.248:5550/503/index.m3u8
+#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="💠BDIX💠",Disney Channel
+http://103.191.99.248:5550/602/index.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jalwa.png" group-title="💠BDIX💠",9X Jalwa
+http://103.191.99.248:5550/703/index.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9xm.png" group-title="💠BDIX💠",9XM
+http://103.191.99.248:5550/704/index.m3u8
+#EXTINF:-1 group-title="💠BDIX💠" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png",Discovery HD
+http://103.191.99.248:5550/801/index.m3u8
+
+http://103.191.99.248:5550/802/index.m3u8
 #EXTINF:-1 tvg-id="001" tvg-name="LIVE EVENT" tvg-logo="https://i.ibb.co/VWZykTG5/2026-FIFA-World-Cup-emblem-1.png" group-title="LIVE EVENT", BD 1
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_3.m3u8
 #EXTINF:-1 tvg-id="001" tvg-name="LIVE EVENT" tvg-logo="https://i.ibb.co/VWZykTG5/2026-FIFA-World-Cup-emblem-1.png" group-title="LIVE EVENT", i sreen 
@@ -343,3 +391,9 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3
 
 #EXTINF:-1 tvg-id="MovieBanglaTV" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="SM All TV",Movie Bangla TV
 http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-id="t_sports_hd_2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLtXSmDAeGneCTEZAcT9gbAVtcHGQ0HeaD0QHYr2U1Apg0pN7YDXpuLnU-&s=10"Spain vs Agentina
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1784143104-0-0-61887cba46b1efb63b5b09d227c56d0a
+#EXTINF:-1 tvg-id="01" tvg-name="LIVE EVENT" tvg-logo="https://i.ibb.co/VWZykTG5/2026-FIFA-World-Cup-emblem-1.png" group-title="LIVE EVENT", Worldcup 
+https://live1.streambylivepulse.com/live/channel6/playlist.m3u8?wsSecret=b9af50e7e1f039727390f2bedab8f1e0
+#EXTINF:-1 tvg-id="01" tvg-name="LIVE EVENT" tvg-logo="https://i.ibb.co/VWZykTG5/2026-FIFA-World-Cup-emblem-1.png" group-title="LIVE EVENT", WorldCup
+https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
