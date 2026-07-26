@@ -1,6 +1,9 @@
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkClJizKRFt4I-ASmfrF22L3-M6-KBUO5VVRezKRo7DBj1wMT0nUbeCz2g&s=10", Ptv Sports
+https://footfytv.pro/proxy/direct?url=http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJegQ10LBifY4o13nAyqAUhXyb-UKPenXsvjAQT49Jbw&s=10", T-Sports HD
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8?nocache=1783826412104
 
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports-2.png" group-title="LIVE EVENT",T Sports 1
-http://103.165.93.31:8095/tsports/video.m3u8
+
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports-2.png",T Sports 02
 http://103.191.99.248:5550/102/index.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
