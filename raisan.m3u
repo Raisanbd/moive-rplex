@@ -17,8 +17,8 @@ _SECURE_KEY_2026
 #EXTINF:-1 tvg-name="Galle Gallants Vs Dambulla Sixers" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQzqyiL8I9xUzHQaUNGuapozGukLxpqnfGmSZ_CEq-og&s=10 group-title="Fancode",Movie Bangla TV
 https://bestiptv.bestiptv-pro.workers.dev/?url=http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR9ivAcM36c9JWeN2WxGIP94LagsFYs05AaFNO0wE2V0G6Kd30zSDCTgMF&s=10", Soco Live
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1784143104-0-0-61887cba46b1efb63b5b09d227c56d0a
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkClJizKRFt4I-ASmfrF22L3-M6-KBUO5VVRezKRo7DBj1wMT0nUbeCz2g&s=10", Ptv Sports
+https://footfytv.pro/proxy/direct?url=http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR9ivAcM36c9JWeN2WxGIP94LagsFYs05AaFNO0wE2V0G6Kd30zSDCTgMF&s=10", spain vs argentina 1
 https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 
