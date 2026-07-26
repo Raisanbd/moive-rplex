@@ -19,8 +19,8 @@ https://bestiptv.bestiptv-pro.workers.dev/?url=http://alvetv.com/moviebanglatv/8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkClJizKRFt4I-ASmfrF22L3-M6-KBUO5VVRezKRo7DBj1wMT0nUbeCz2g&s=10", Ptv Sports
 https://footfytv.pro/proxy/direct?url=http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR9ivAcM36c9JWeN2WxGIP94LagsFYs05AaFNO0wE2V0G6Kd30zSDCTgMF&s=10", spain vs argentina 1
-https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJegQ10LBifY4o13nAyqAUhXyb-UKPenXsvjAQT49Jbw&s=10", T-Sports HD
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8?nocache=1783826412104
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM2G13qUseSAPCXsbVwqJXsZMMe2JcTTFTxv9_SGUp-3k5de5cbEfthmWa&s=10", spain vs argentina
 https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
@@ -87,7 +87,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD
-https://tvsen3.aynascope.net/n64PH4YL/tracks-v1a1/mono.ts.m3u8
+https://footfytv.pro/proxy/direct?url=http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="BANGLA",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
