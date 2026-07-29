@@ -148,7 +148,8 @@ https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 
 ############## Cartoon ##############
-
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="",nick bengali
+https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1341
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY3ZDVhMDMtOWQ1NS00NDc2LWI2OGQtY2YxOTdjMDMxZjJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="KIDS CHANNELS",0. Oggy 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="195" tvg-name="Doraemon" tvg-logo="https://i.ibb.co/ymmp38Nv/Doraemon-Merch-EN-Logo-svg.png" group-title="KIDS CHANNELS", DORAEMON 24/7
