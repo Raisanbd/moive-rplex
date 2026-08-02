@@ -62,7 +62,58 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3mvRqwvk/New-Project-2.png" group-title="BANGLADESHI CHANNELS",NEWS 24
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/whdVMpfr/New-Project-3.png" group-title="BANGLADESHI CHANNELS",ATN NEWS
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4ZGrRyYK/New-Project-4.png" group-title="BANGLADESHI CHANNELS",BANGLAVISION
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7xhp35HT/New-Project-5.png" group-title="BANGLADESHI CHANNELS",DBC NEWS
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DDjNWq5s/New-Project-6.png" group-title="BANGLADESHI CHANNELS",MAASRANGA TV
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://mtv.sunplex.live/MAASRANGA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kVPpKD85/New-Project-7.png" group-title="BANGLADESHI CHANNELS",MY TV
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9H2Kxy3F/New-Project-8.png" group-title="BANGLADESHI CHANNELS",JAGONEWS24
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0RBzfbmh/New-Project-9.png" group-title="BANGLADESHI CHANNELS",SA TV
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h1XNTKJg/New-Project-10.png" group-title="BANGLADESHI CHANNELS",MOVIE BANGLA
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZR3rgN0K/New-Project-11.png" group-title="BANGLADESHI CHANNELS",Star News
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5h6vwy1m/New-Project-12.png" group-title="SPORTS CHANNELS",GAZI TV HD
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+
+############## indian Bangla ##############
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h7Rov9K9yz6dRM5N81dYq44AUzESD-FpiykR8bVAwg&s=10" group-title="Indian Bangla",Zee Bangla HD 02
+http://27.124.71.27/Zee_Bangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YLmSMgN/Picsart-23-07-13-01-08-01-670.png" group-title="INDIAN CHANNELS",ZEE BANGLA
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+http://103.159.180.34:5001/live/625.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G7h2tj2/Picsart-23-06-07-12-58-40-084.png" group-title="INDIAN CHANNELS",SONY AATH
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZKvL8QG/Picsart-23-07-13-01-14-17-172.png" group-title="INDIAN CHANNELS",STAR JALSHA HD
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly95dXBwdHZjYXRjaHVwaXJlLnl1cHBjZG4ubmV0L3ByZXZpZXcvc3RhcmphbHNoYS8xODAwLm0zdTh8fHx8fHx7fQ/1800.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/Uy6Q-JQBv9knK3AHcDUQ/posters/01709bcd-6d53-4710-a64f-bc49cecf1d61.webp",Eurosport HD
