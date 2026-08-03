@@ -12,9 +12,7 @@ https://tvsen7.aynascope.net/Sports1/index.m3u8
 #EXTINF:-1 group-title="Drama" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 https://top.mswott.top/toffee/media.m3u8?id=99cf57f941a1
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png",Somoy TV
-#EXTVLCOPT:http-user-agent=DevM3U-Player
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
-
+https://top.mswott.top/toffee/media.m3u8?id=b8cc95ee12a9
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png",Jamuna TV
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
