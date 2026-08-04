@@ -126,8 +126,8 @@ https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
 http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/B50FvJt2/New-Project-16.png" group-title="Indian-Bangla",Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Qv6Hd5x5/New-Project-21.png" group-title="Indian-Bangla",Sun Bangla
+http://103.151.61.12/SUN_BANGLA/tracks-v1a1/mono.m3u8
 ############## Cartoon ##############
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="",nick bengali
 https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1341
