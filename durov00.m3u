@@ -15,7 +15,8 @@ https://top.mswott.top/toffee/media.m3u8?id=99cf57f941a1
 https://top.mswott.top/toffee/media.m3u8?id=b8cc95ee12a9
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png",Jamuna TV
 #EXTVLCOPT:http-user-agent=DevM3U-Player
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
 
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png",Ananda TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8
@@ -24,7 +25,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/wHLVIJ4B7a1HdMSjaGLJ/posters/83b89557-3ae8-4ca8-8c5d-3c617359c738.png",NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+https://playztv-apps.pages.dev/ntv/index.m3u8
 
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png",Global TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8
@@ -44,7 +46,8 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/index.m3u8
 
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/ES_cZZsBNnOkwJLW1Oz1/posters/b872b8f5-cb6b-45a1-a1cd-7609df51d614.png",Independent TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
 
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png",Ekhon TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/index.m3u8
@@ -54,7 +57,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wFd3Xfgs/New-Project.png" group-title="BANGLADESHI CHANNELS",Channel One
 #EXTVLCOPT:http-user-agent=DevM3U-Player
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+https://playztv-apps.pages.dev/channel-i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pjHb2G75/New-Project-1.png" group-title="BANGLADESHI CHANNELS",CHANNEL 24
 #EXTVLCOPT:http-user-agent=DevM3U-Player
@@ -65,14 +69,16 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/whdVMpfr/New-Project-3.png" group-title="BANGLADESHI CHANNELS",ATN NEWS
 #EXTVLCOPT:http-user-agent=DevM3U-Player
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+https://playztv-apps.pages.dev/atn-news/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/4ZGrRyYK/New-Project-4.png" group-title="BANGLADESHI CHANNELS",BANGLAVISION
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7xhp35HT/New-Project-5.png" group-title="BANGLADESHI CHANNELS",DBC NEWS
 #EXTVLCOPT:http-user-agent=DevM3U-Player
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+https://playztv-apps.pages.dev/dbc-news/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DDjNWq5s/New-Project-6.png" group-title="BANGLADESHI CHANNELS",MAASRANGA TV
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
@@ -102,7 +108,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 ############## indian Bangla ##############
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TD4STyMD/New-Project-13.png" group-title="Indian Bangla",Zee Bangla HD 01
-http://27.124.71.27/Zee_Bangla/index.m3u8
+#http://27.124.71.27/Zee_Bangla/index.m3u8
+https://playztv-apps.pages.dev/zee-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TD4STyMD/New-Project-13.png" group-title="INDIAN CHANNELS",ZEE BANGLA 02
 #EXTVLCOPT:http-user-agent=DevM3U-Player
 http://103.159.180.34:5001/live/625.m3u8
