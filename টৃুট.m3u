@@ -1,0 +1,48 @@
+#EXTINF:-1 tvg-id="sonyaath" tvg-name="Sony Aath VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" tvg-chno="sonyaath" group-title="", Sony Aath
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonyaath&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ymwzwVvd/New-Project-14.png" group-title="INDIAN CHANNELS",SONY AATH
+#https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/index.m3u8
+http://103.151.61.12/SONY_AATH/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ps0MFQwn/New-Project-15.png" group-title="INDIAN CHANNELS",STAR JALSHA HD
+https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4yMzA6ODA5MC9obHMvU3RhckphbHNoYUhELm0zdTg.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ps0MFQwn/New-Project-15.png" group-title="INDIAN CHANNELS",STAR JALSHA 
+https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4yMzA6ODA5MC9obHMvU3RhckphbHNoYUhELm0zdTg.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JjbcX7XK/New-Project-20.png" group-title="Indian-Bangla",Enter 10 Bangla
+#https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QjFD18Dp/New-Project-19.png" group-title="Indian-Bangla",Akash Aath
+https://cdn-4.pishow.tv/live/969/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5W0cW5pq/New-Project-17.png" group-title="Indian-Bangla",Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdBNbwgs/New-Project-18.png" group-title="Indian-Bangla",Colors Bangla
+#https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
+https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/B50FvJt2/New-Project-16.png" group-title="MOVIES CHANNELS",JALSHA MOVIES HD
+#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://go.skym3u.top/live/3b1f0d3d404f707f071d154f0c070f0636324b0d17114e6702080119190a153e5b14001d0a04040441111c153c38164e0454156e1d5d5d583c45147e464d.m3u8
+#EXTINF:-56 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8wJdNPAfkGDb7D52d7HRbJ5hLgCUB7Ss74mStkPgemQ&s" group-title="Indian-Bangla",DD Bangla
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Qv6Hd5x5/New-Project-21.png" group-title="Indian-Bangla",Sun Bangla
+http://103.151.61.12/SUN_BANGLA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚" tvg-logo="https://i.postimg.cc/Kc7BJRCy/20240823-020704.png",Sananda Tv
+http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚" tvg-logo="https://i.postimg.cc/TYCmvBR7/20240823-020800.png",Ruposhi Bangla 
+http://103.175.73.12:8080/live/664/664_0.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="KhushbooBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png",Khushboo Bangla
+https://cdn-4.pishow.tv/live/1473/master.m3u8
+#EXTINF:-1 tvg-id="hum_tv" tvg-name="Hum TV" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png" tvg-chno="hum_tv" group-title="", Hum TV
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_tv&e=.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original", Atv Sports
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/N23H8ttr/New-Project-22.png", T-Sports HD
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tsports_live" tvg-name="Tsports Live" tvg-country="BD" tvg-logo="https://i.ibb.co.com/N23H8ttr/New-Project-22.png" tvg-chno="tspost_live" group-title="", T sports - server 2
+https://tvsen7.aynascope.net/Sports1/index.m3u8
