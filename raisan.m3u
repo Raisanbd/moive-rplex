@@ -11,11 +11,44 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Toffee TV" tvg-name="Toffee TV" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Family",Toffee TV
 https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ftoffee_drama%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788253239%3AKeyName%3Dprod_linear%3ASignature%3Dzl9DqFFvqnI847XNYQaNK4CS-Y7_5y8rlh6VDzB0aLUSW2s04R_CFi-WhfVYexMaj-83dXdkVJjE4Ffx6cGKDQ&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY3ZDVhMDMtOWQ1NS00NDc2LWI2OGQtY2YxOTdjMDMxZjJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="KIDS CHANNELS",0. Oggy 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="195" tvg-name="Doraemon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Doraemon2005.svg" group-title="KIDS CHANNELS", DORAEMON 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="196" tvg-name="Gopal bhar" tvg-logo="https://i.ibb.co/Y7YRf7gp/1000118585-removebg-preview.png" group-title="KIDS CHANNELS", GOPAL BHAR 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="197" tvg-name="mrbean" tvg-logo="https://i.ibb.co/J4PNj3T/Picsart-26-07-14-12-28-44-839.png" group-title="KIDS CHANNELS", MR BEAN 24/7
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-id="MotuPatlu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/WowKidz_Logo.png",0. WowKidz (Motu Patlu)
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+#EXTINF:-1 tvg-id="TomandJerry2" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Kids",0. Tom and Jerry 2
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MotuPatlu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/WowKidz_Logo.png" group-title="Kids",0. WowKidz (Motu Patlu)
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Toffee Movies" tvg-name="Toffee Movies" tvg-logo="https://i.ibb.co.com/ynNRSTJK/New-Project-1.png" group-title="Movies",Rlive Movies
 https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ftoffee_movie%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788253239%3AKeyName%3Dprod_linear%3ASignature%3Dzl9DqFFvqnI847XNYQaNK4CS-Y7_5y8rlh6VDzB0aLUSW2s04R_CFi-WhfVYexMaj-83dXdkVJjE4Ffx6cGKDQ&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
 #EXTINF:-1 tvg-id="EPL channel 1" tvg-name="EPL channel 1" tvg-logo="https://i.ibb.co.com/XrB106HL/New-Project.png" group-title="Live Action",Rlive Sports
 https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FEPL-26-27-CH-1%2Findex.m3u8%3Fedge-cache-token%3DExpires%3D1788080739~Starts%3D1788080439~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data%3DeyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature%3DL7CGiPaw17W704JkclhIskpypDLLoBnzY1h1CCK-BXKMfThZkqMq-ZndYcAezG9D1sUr8W0tdm49gEgp49zkCA&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788253239%3AKeyName%3Dprod_linear%3ASignature%3Dzl9DqFFvqnI847XNYQaNK4CS-Y7_5y8rlh6VDzB0aLUSW2s04R_CFi-WhfVYexMaj-83dXdkVJjE4Ffx6cGKDQ&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/30.png" group-title="inbangla",Star Jalsha
+https://flussonic.defineatoz.com/StarjalshaHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png" group-title="sports",TSports hd
+http://103.185.24.134:3001/TSportsHD/index.m3u8
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/wHLVIJ4B7a1HdMSjaGLJ/posters/83b89557-3ae8-4ca8-8c5d-3c617359c738.png",NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Entertainment",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports 02
+https://flussonic.defineatoz.com/TSports2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="WC Match Recap" tvg-name="WC Match Recap" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png" group-title="Sports",WC Match Recap
 https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ffifa_world_cup%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788253239%3AKeyName%3Dprod_linear%3ASignature%3Dzl9DqFFvqnI847XNYQaNK4CS-Y7_5y8rlh6VDzB0aLUSW2s04R_CFi-WhfVYexMaj-83dXdkVJjE4Ffx6cGKDQ&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp" group-title="Documentary",CNN
