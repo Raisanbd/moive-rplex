@@ -9,7 +9,10 @@
 # For any issues or concerns, please contact the developer.
 #==================================
 #EXTM3U
-
+#EXTINF:-1 tvg-id="Toffee TV" tvg-name="Toffee TV" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Family",Toffee TV
+https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ftoffee_drama%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788253239%3AKeyName%3Dprod_linear%3ASignature%3Dzl9DqFFvqnI847XNYQaNK4CS-Y7_5y8rlh6VDzB0aLUSW2s04R_CFi-WhfVYexMaj-83dXdkVJjE4Ffx6cGKDQ&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
+#EXTINF:-1 tvg-id="Toffee Movies" tvg-name="Toffee Movies" tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Movies",Toffee Movies
+https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ftoffee_movie%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1788253239%3AKeyName%3Dprod_linear%3ASignature%3Dzl9DqFFvqnI847XNYQaNK4CS-Y7_5y8rlh6VDzB0aLUSW2s04R_CFi-WhfVYexMaj-83dXdkVJjE4Ffx6cGKDQ&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://i.postimg.cc/y8cfPVhg/20240822-225146.png",BTV
 https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
 
