@@ -1,4 +1,30 @@
 #EXTM3U
+# ───────────Bachelor──────────
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 105
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/105/S05E105.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 106
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/106/S05E106.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 107
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/107/S05E107.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 108
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/108/S05E108.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 109
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/109/S05E109.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 110
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/110/S05E110.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 111
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/111/S05E111.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 112
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/112/S05E112.m3u8
+
 #EXTINF:-1 tvg-logo="https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_bq2v1783682378.jpg" group-title="hindi",Dhamaal.4 (2026)
 https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/9dce06d52eaf9ab20814d905d1d0adfb?token=1786968000-3915725ab730ce02c0bd0c32e92bd6dbf8f7088b
 #EXTINF:-1 tvg-logo="https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_xxcr1783028926.jpg" group-title="Bangla",Alal Dulal (2026)
